@@ -27,7 +27,7 @@ namespace MvcEntityFrameworkReportViewer.Controllers
                 relat.DataSources.Add(new ReportDataSource
                 {
                     Name = "DataSet1",
-                    Value = new ExemploReport().Dados()
+                    Value = new ExemploReport().Dados().Where(a=>a.ClienteId == 1)
                 });
 
                 string reportType = "PDF";
