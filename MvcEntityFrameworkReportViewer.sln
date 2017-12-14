@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcEntityFrameworkReportViewer", "MvcEntityFrameworkReportViewer\MvcEntityFrameworkReportViewer.csproj", "{988A4626-12D3-4E20-B43D-3CC134BF508C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcEntityFrameworkReportViewer", "MvcEntityFrameworkReportViewer\MvcEntityFrameworkReportViewer.csproj", "{DC9EFFD6-02C1-440B-95D8-CD7DAF61E53D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{988A4626-12D3-4E20-B43D-3CC134BF508C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{988A4626-12D3-4E20-B43D-3CC134BF508C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{988A4626-12D3-4E20-B43D-3CC134BF508C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{988A4626-12D3-4E20-B43D-3CC134BF508C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC9EFFD6-02C1-440B-95D8-CD7DAF61E53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9EFFD6-02C1-440B-95D8-CD7DAF61E53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9EFFD6-02C1-440B-95D8-CD7DAF61E53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9EFFD6-02C1-440B-95D8-CD7DAF61E53D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
